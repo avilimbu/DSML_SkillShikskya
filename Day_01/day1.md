@@ -1,7 +1,8 @@
 # Chapter 1 | Development Environment & Git
 
 > > Python Installation
-```Installed Python from the official website and added Python to **PATH** during installation. Verified the installation using **python --version** and **pip --version**.```
+
+Installed Python from the official website and added Python to **PATH** during installation. Verified the installation using **python --version** and **pip --version**.
 
 > > VS Code & Jupyter
 ```Installed **VS Code** for writing Python code and **Jupyter Notebook/JupyterLab** for interactive programming. Also explored **Google Colab** for cloud-based coding.```
