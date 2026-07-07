@@ -3,6 +3,7 @@
 > > SSH Key
 An SSH key is a secure way to connect your computer with GitHub without entering your username and password every time.
 
+
 > > SSH Key Pair
 
 1. **Private Key** – Stored securely on your computer and should never be shared.
@@ -69,6 +70,9 @@ A branch lets you develop new features without affecting the main branch.
 >> in-powershell
 git branch
 git checkout -b feature/branch_name
+
+>>Delete git branch
+git branch -D branch_name
 
 > > Key Takeaway
 Learned how to securely connect GitHub using SSH keys, configure Git, manage repositories, and work with branches using Windows PowerShell.
