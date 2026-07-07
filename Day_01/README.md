@@ -1,4 +1,4 @@
-# Chapter 1 | Development Environment & Git
+# Day 01 | Development Environment & Git
 
 > > Python Installation
 

@@ -1,4 +1,4 @@
-# Chapter 2 | Git Repository Setup & SSH Authentication
+# Day 02 | Git Repository Setup & SSH Authentication
 
 > > SSH Key
 

@@ -1,6 +1,6 @@
 # Data Science & Machine Learning (DSML)
 
->>Welcome to my **Data Science & Machine Learning** learning repository.
+## Welcome to my **Data Science & Machine Learning** learning repository.
 
 This repository documents my learning journey through the **DSML course at Skill Shikshya**. It contains notes, coding exercises, practice problems, and machine learning implementations that I complete throughout the course.
 
