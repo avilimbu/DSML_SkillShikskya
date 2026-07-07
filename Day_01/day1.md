@@ -5,13 +5,16 @@
 Installed Python from the official website and added Python to **PATH** during installation. Verified the installation using **python --version** and **pip --version**.
 
 > > VS Code & Jupyter
-```Installed **VS Code** for writing Python code and **Jupyter Notebook/JupyterLab** for interactive programming. Also explored **Google Colab** for cloud-based coding.```
+
+Installed **VS Code** for writing Python code and **Jupyter Notebook/JupyterLab** for interactive programming. Also explored **Google Colab** for cloud-based coding.
 
 > > Virtual Environment
-```A virtual environment creates an isolated workspace for each project, helping manage project-specific packages without affecting the global Python installation.```
+
+A virtual environment creates an isolated workspace for each project, helping manage project-specific packages without affecting the global Python installation.
 
 > > Git & GitHub
-```Git is a distributed version control system that tracks changes in code, while GitHub is a platform for hosting and collaborating on Git repositories.```
+
+Git is a distributed version control system that tracks changes in code, while GitHub is a platform for hosting and collaborating on Git repositories.
 
 > > Core Git Concepts
 
@@ -33,4 +36,6 @@ Installed Python from the official website and added Python to **PATH** during i
 ```
 
 >> Learning Outcome
+
 ```Set up the complete Python development environment and learned the basics of Git, GitHub, virtual environments, and essential development tools required for the Data Science & Machine Learning journey.```
+
