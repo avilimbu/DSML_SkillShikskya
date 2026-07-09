@@ -1,4 +1,5 @@
-# Day 04 | Core Data Structures
+# Day 04 | Core Data Structures 
+>>Theory
 
 ## Data Structures
 
