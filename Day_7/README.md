@@ -1,7 +1,5 @@
 # Day 07 | Python Dictionary
 
-> ## Theory
-
 ## Dictionary
 
 A **dictionary** is a built-in Python data structure used to store data in the form of **key-value pairs**.
